@@ -20,7 +20,10 @@
 
     <!-- Custom Fonts -->
     <!--<link href="../assets/font-awesome.min.css" rel="stylesheet" type="text/css">-->
-    <link href="http://startbootstrap.com/templates/agency/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!--<link href="http://startbootstrap.com/templates/agency/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -88,7 +91,7 @@
                     $.cookie('lang', 'en');
                 }else{
                     if (cLan != 'en'){
-                        window.location.href = '/';
+                        window.location.href = '../';
                     }
                 }
                 return;
@@ -581,7 +584,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
+
+                    <a href="#" style="font-weight: bold;" >English</a> | <a href="/"  >Russian</a>
+                    <br/>
                     <span class="copyright">Copyright © CardioMood 2014</span>
+
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
