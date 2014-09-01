@@ -32,6 +32,36 @@ var CardioMoodWebsite = function(){
         });
     }
 
+}
 
+function isSNG(){
+    var l = navigator.language || navigator.userLanguage;
+    l = l.toLowerCase();
+    if (! (l == 'ru' || l == 'ua' || l == 'mn' || l == 'kz' || l == 'by' || l == 'ee' || l == 'ge' || l == 'lt' || l == 'lv' || l == 'uz' || l == 'tj')){
+        return false;
+    }
+    return true;
+}
 
+function checkLang(){
+    var cLan = $.cookie('lang');
+    if (window.location.href.indexOf('/en') > -1){
+        if (cLan == undefined){
+            $.cookie('lang', 'en');
+        }else{
+            if (cLan != 'en'){
+                window.location.href = '/';
+            }
+        }
+        return;
+    }
+    //on russian version
+    if (cLan == undefined){
+        if (isSNG()){
+            $.cookie('lang', 'ru');
+        }else{
+            $.cookie('lang', 'en');
+            window.location.href = '/en';
+        }
+    }
 }

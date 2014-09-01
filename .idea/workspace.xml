@@ -2,110 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6494b9-f1b6-4e7d-afb7-e973e5edee78" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/00.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/05-rename.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/06-history.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/07-continuous_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/07-continuous_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/screens/08-continuous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/1(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/2nd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/3(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/CardioMoodLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/GalaxyS3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/GooglePlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/HeartLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/anton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/anton_web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/apyht.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/changing_HR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/client_air.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/command_sport.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/command_sport2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/corporate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/creative-market.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/dashboard_user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/designmodo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/dreams-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/dreams.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/envato.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/escape-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/escape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/girl_stress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/girl_stress2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/golden-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/golden.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/header-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imbp_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/indian_stress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/kolomna_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/man_polar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/map-image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/math1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/math2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/mfti_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/mipt_system.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/multi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/new_personal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/polar_belts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/polar_dry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/polar_wet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/roundicons-free.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/roundicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sabir.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sabir_web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/startup-framework-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/startup-framework.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stress_india2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stressed_woman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/tech.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/themeforest.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/treehouse-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/treehouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vapetr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/woman_smartphone.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/zapara.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/zapara_new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CardioMoodNewWebsite.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/agency.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/agency.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/cbpAnimatedHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/classie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/contact_me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css(1)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css(2)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css(3)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/jqBootstrapValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/jquery-1.11.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/custom.js" afterPath="$PROJECT_DIR$/assets/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/index.html" afterPath="$PROJECT_DIR$/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CardioMoodNewWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24554455" vertical-offset="8951" max-vertical-offset="13395">
-              <caret line="605" column="49" selection-start-line="605" selection-start-column="49" selection-end-line="605" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.6214689" vertical-offset="1125" max-vertical-offset="14025">
+              <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -202,6 +102,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="30.9" vertical-offset="2595" max-vertical-offset="13965">
+              <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="contact_me.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -225,8 +141,18 @@
       <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="630">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1080">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="66" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.cookie.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/jquery.cookie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1755">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -237,16 +163,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
-              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -288,8 +204,9 @@
         <option value="$PROJECT_DIR$/Agency - Start Bootstrap Theme.html" />
         <option value="$PROJECT_DIR$/assets/agency.css" />
         <option value="$PROJECT_DIR$/assets/index2.html" />
-        <option value="$PROJECT_DIR$/assets/custom.js" />
         <option value="$PROJECT_DIR$/assets/contact_me.js" />
+        <option value="$PROJECT_DIR$/assets/custom.js" />
+        <option value="$PROJECT_DIR$/en/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -325,7 +242,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -344,8 +260,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardioMoodNewWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardioMoodNewWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,6 +302,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -381,12 +320,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -394,16 +335,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -428,15 +359,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="711" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -444,11 +375,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -471,6 +402,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9906" max-vertical-offset="13275">
+          <caret line="673" column="26" selection-start-line="673" selection-start-column="26" selection-end-line="673" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/index2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3345" max-vertical-offset="4725">
@@ -957,14 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/index2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3345" max-vertical-offset="4725">
@@ -996,10 +943,50 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jquery.cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1755">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1080">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="66" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jquery-1.11.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="30.9" vertical-offset="2595" max-vertical-offset="13965">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24554455" vertical-offset="8951" max-vertical-offset="13395">
-          <caret line="605" column="49" selection-start-line="605" selection-start-column="49" selection-end-line="605" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.6214689" vertical-offset="1125" max-vertical-offset="14025">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
